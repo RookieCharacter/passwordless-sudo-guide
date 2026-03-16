@@ -1,6 +1,6 @@
-## Guide on how to enable passwordless sudo:
+# Guide on how to enable passwordless sudo:
 
-# Step 1: Enable passwordless sudo for the administrator
+## Step 1: Enable passwordless sudo for the administrator
 
 First, SSH to your server. In many cases, you’ll have made this ‘passwordless’ as well, so you’ll use your private key:
 
